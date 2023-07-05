@@ -6,7 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-moreira-doraciotto-a70684223/) 
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodoraciotto&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoraciotto&layout=compact&theme=tokyonight)
 
 ## Tecnologias com que tenho experiência
