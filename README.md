@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rodrigo Doraciotto 👋
 
-#### Atualmente estou fazendo Iniciação Científica pela FAPESP ✍️
-#### Estou cursando Ciência da Computação na FEI 📒
+#### ✍️ Atualmente estou fazendo Iniciação Científica pela FAPESP 
+#### 📒 Estou cursando Ciência da Computação na FEI 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-moreira-doraciotto-a70684223/) 
 
