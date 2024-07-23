@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rodrigo Doraciotto 👋
 
-#### 📒 Atualmente cursando Ciência da Computação na FEI (6/8)
+#### 📒 Atualmente cursando Ciência da Computação na FEI (7/8)
 #### Buscando Emprego
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-doraciotto) 
